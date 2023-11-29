@@ -28,7 +28,7 @@ class randomDraw  {
         // 根据保底次数，动态变化抽卡结果,未出金次数超过50次后，此后每次抽卡，五星概率增加5%
         if(BasicCount_p>0)
             BasicProbability_p = BasicCount_p*0.25;
-        // 未出紫次数超过6次后，此后每次抽卡，四星概率增加10%
+        // 未出紫次数超过6次后，此后每次抽卡，四星概率增加25%
         random = Math.random();
         if (random < 0.01 + BasicProbability) {
             result = "五星";
