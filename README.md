@@ -34,6 +34,6 @@ Main.java为主程序
 
 例：当抽数足够同时触发五星和四星保底时，下一抽将一定先出五星，再下一抽将一定出四星。
 
-# 结果页面展示
+# 结果页面展示：抽卡页面
 <img width="415" alt="image" src="https://github.com/LiJinHao999/Draw/assets/125203402/bdd151e5-07d5-4acf-bcc3-b91246c2ee39">
 
