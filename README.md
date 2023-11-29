@@ -3,6 +3,7 @@ Java课大作业，与朋友合作使用java的内置库swing实现的一个有�
 
 # 运行环境配置说明
 *Java Development Kit (JDK) 8 或更高版本
+
 *一个支持Java的集成开发环境（IDE），例如IntelliJ IDEA或Eclipse
 
 # 使用说明
