@@ -1,5 +1,5 @@
 # Draw
-Java课大作业，应朋友要求，使用java的内置库实现的一个有GUI的简单抽卡系统
+Java课大作业，应朋友要求，使用java的内置库swing实现的一个有GUI的简单抽卡系统
 
 # 运行环境配置说明
 *Java Development Kit (JDK) 8 或更高版本
