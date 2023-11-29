@@ -8,12 +8,19 @@ Java课大作业，与朋友合作使用java的内置库swing实现的一个有�
 # 使用说明
 示范的三星、四星、五星卡面图片由ai生成，
 程序将从five_star、four_star、three_star的三个文件夹中随机选取图片。
+
 因此，若您想要替换卡面，直接修改文件夹中的图片即可，而无需在意图片的名称.
+
 代码文件在文件夹Draw/src中。
+
 其中的代码文件：
+
 GuiView.java为抽卡页面的gui实现
-luckDrawResultView.java为抽卡结果的gui实现
+
+luckDrawResultView.java为展示的抽卡结果的gui实现
+
 randomDraw.java为保底概率计算的算法实现
+
 Main.java为主程序
 
 
